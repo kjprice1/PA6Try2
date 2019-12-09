@@ -39,7 +39,6 @@ namespace PA6Try2
             frmEdit myForm = new frmEdit(myBook, cwid, "edit");
             if(myForm.ShowDialog() == DialogResult.OK)
             {
-
             }
             else
             {
